@@ -1,4 +1,4 @@
-name: 01 - Primeiro Worflow
+name: 01 - Primeiro Workflow
 on: push
 
 jobs:
